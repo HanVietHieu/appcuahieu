@@ -1,0 +1,114 @@
+.footer{
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    font-family: sans-serif;
+    background-color: #0066b2;
+}
+.footer h1{
+    color: #fff;
+    padding: 1.3rem;
+}
+.hotline{
+    justify-content: center;
+    border-top: 2px solid #fff;
+    text-align: center;
+}
+.hotline h3{
+    padding-top: 1.3rem;
+    color: #fff;
+}
+.hotline1 p{
+    color: #fff;
+    font-size: 18px;
+    padding-top: 1.3rem;
+    margin: 1.3rem 0;
+}
+.hotline1 p span:not(:first-child){
+    padding-left: 20px;
+    border-left: 3px solid #fff;
+}
+.hotline1 p span:not(:last-child){
+    padding-right: 20px;
+}
+.hotline1{
+    display: flex;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.hotline2{
+    display: flex;
+}
+.hotline2 li{
+    list-style: none;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.hotline2 li span{
+    padding: 17px 20px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+.hotline2 li span i{
+    font-size: 20px;
+    color: #0066b2;
+}
+.hotline2 li span:hover {
+    background-color: rgb(157, 205, 228);
+    transition: 0.3s ease-in-out;
+}
+
+.hotline3{
+    display: flex;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.3rem;
+   
+}
+
+.hotline3 span {
+    padding: 0px 10px;
+    background-color: #fff;
+    margin-right: 0.5rem!important;
+    border-radius: 50%;
+}
+.hotline3 li{
+    font-size: 18px;
+    color: #fff;
+    padding-left: 20px;
+}
+.hotline3 li:hover span{
+    background-color: #2a7bb9;
+    transition: 0.3s ease-in-out;
+}
+.hotline3 li:hover{
+    opacity: 0.6;
+}
+.diachi_sonha{
+    max-width: 80%;
+    height: 190px;
+    padding-top: 20px;
+    border-top: 1px solid #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 10%;
+
+    
+}
+.diachi_sonha p{
+    color: #fff;
+    font-family: sans-serif;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 20px;
+    line-height: 2;
+}

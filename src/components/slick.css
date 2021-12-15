@@ -1,0 +1,17 @@
+.img-main_1 img, .img-main_2 img{
+   height: 500px;
+    width: 100%;
+}
+.slick-dots{
+    top: 500px;
+}
+.img-main_3 img{
+    height: 450px;
+    margin-left: 15%;
+    margin-top: 50px;
+    
+}
+.img-main_3{
+    background-image: url(./images/a1.png);
+    min-height: 500px;width: 100%;
+}
